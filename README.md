@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/j4sm1ne02/azure-network-protocols)
 
 - <b>Spiceworks (Help Desk Ticketing System)</b>
-  - [Spiceworks: Prereqs and Installation](htttps://github.com/j4sm1ne02/spice-prereqs)
+  - [Spiceworks: Prereqs and Installation](https://github.com/j4sm1ne02/spice-prereqs)
 
 <h2>🤳Connect with me:</h2>
 
